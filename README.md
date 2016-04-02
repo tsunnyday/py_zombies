@@ -1,2 +1,2 @@
 # py_zombies
-Turn-based zombie apocalypse game in python with pygame
+Zombies walk around randomly, and don't hit each other or go off of the screen.
